@@ -6,13 +6,14 @@ DEMOGRAPHICS
 3–5 years
 6–10 years
 +10 years
-2. How would you describe your experience level with programming in general?
+2. How often do you program with Pharo?
+
+4. How would you describe your experience level with programming in general?
 Beginner
 Intermediate
 Advanced
 Expert
-3. What is your primary use case for Pharo? (e.g., education, research, professional development, personal projects)
-
+5. What is your primary use case for Pharo? (e.g., education, research, professional development, personal projects)
 SPOTTER QUESTIONS
 1. I am familiar with the Spotter tool in Pharo.
 2. I use the Spotter tool frequently.
@@ -29,6 +30,8 @@ SPOTTER QUESTIONS
 13. If so, which ones (Open ended)
 14. I am satisfied with the size of the Spotter tool.
 15. I would be more productive using the Spotter if it were larger.
-16. I use advanced search features in the Spotter.
-17. Overall, I am satisfied with the Spotter tool.
-18. Do you have any suggestions to improve the Spotter? (Open ended)
+16. I use the advanced search (Finder) from the Spotter.
+17. Do you use the finder without going to the spotter?
+18. Why do you use the finder without going to the spotter (Open ended)
+19. Overall, I am satisfied with the Spotter tool.
+20. Do you have any suggestions to improve the Spotter? (Open ended)
